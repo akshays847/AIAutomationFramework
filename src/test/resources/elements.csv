@@ -1,0 +1,8 @@
+Element Name,XPath,Tag,Type
+"find_flights_button","//input[@type='submit']","input","submit"
+"nav_toggle_button","//a","a",""
+"travel_the_world_link","//a[text()='Travel The World']","a",""
+"home_link","//a[text()='home']","a",""
+"destination_of_the_week_the_beach_link","//a[text()='destination of the week! The Beach!']","a",""
+"fromport_dropdown","//select[@name='fromPort']","select","select-one"
+"toport_dropdown","//select[@name='toPort']","select","select-one"

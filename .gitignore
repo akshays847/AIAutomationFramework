@@ -1,0 +1,21 @@
+# compiled files
+target/
+*.class
+bin/
+
+# generated test files
+generated/
+GeneratedTest.java
+
+# Eclipse files
+.settings/
+.classpath
+.project
+.metadata/
+
+# logs
+*.log
+
+# safety net for secrets
+*secret*
+*credentials*
